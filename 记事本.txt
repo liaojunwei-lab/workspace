@@ -1,3 +1,0 @@
-postman 账号/密码    liaojunwei/yixin@12
-https://github.com/liaojunwei-lab/workspace 账号/密码   liaojunwei2019/liaojunwei52019   邮箱  578141137@qq.com
-git  http://gitlab.yixincapital.com/  账号/密码:liaojunwei/yixin@12
